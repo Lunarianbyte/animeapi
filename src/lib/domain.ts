@@ -1,7 +1,5 @@
 const FALLBACKS = [
-  "https://otakudesu.blog",
-  "https://otakudesu.cloud",
-  "https://otakudesu.lol",
+  "https://otakudesu.blog"
 ];
 
 const ENV_BASE = process.env.BASEURL;
